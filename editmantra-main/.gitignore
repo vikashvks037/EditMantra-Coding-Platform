@@ -1,0 +1,30 @@
+# Node.js dependencies
+/node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE or editor directories
+.vscode/
+.idea/
+
+# Package lock files (optional)
+package-lock.json
+yarn.lock
+
+# Misc
+*.swp
+*.swo
+
+# MacOS system files
+.AppleDouble
+.LSOverride
